@@ -3,9 +3,7 @@
 VedaAI is a full-stack, real-time AI Assessment Creator that allows teachers to dynamically generate structured question papers based on specific subjects, classes, and question distribution. It leverages modern background queue processing and WebSockets to deliver a seamless, non-blocking user experience.
 
 ### 🔗 Live Links
-- **Frontend (Live Demo):** [Insert your Vercel URL here]
-- **Backend API:** [Insert your Render URL here]
-
+- **Frontend (Live Demo):** https://ai-assessment-creator-kappa.vercel.app/
 ---
 
 ## 🛠️ Tech Stack & Architecture
